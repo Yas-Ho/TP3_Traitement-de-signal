@@ -3,7 +3,7 @@
 # Objectifs:
 Dans ce troisième Tp on cherche a Supprimer du bruit autour du signal produit par un électrocardiographefaire et faire la représentation temporelle et fréquentielle en utilisant la transformée de fourrier discrète sous le logiciel Matlab.
 
-# traduction :
+# introduction :
 Un électrocardiogramme (ECG) est un test qui mesure l'activité électrique du cœur. Il est utilisé pour détecter des anomalies cardiaques telles que les troubles du rythme cardiaque, les infarctus du myocarde et les maladies cardiaques congénitales.
 
 ![image](https://user-images.githubusercontent.com/97410524/215348321-8b9dd98c-3004-4993-a6d6-1e3136676043.png)
