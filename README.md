@@ -1,5 +1,5 @@
 # TP3_Traitement-de-signal
-![image](https://user-images.githubusercontent.com/97410524/215348304-47ff6a40-a0eb-4115-bbc6-b28f15f55a64.png)
+
 # Objectifs:
 Dans ce troisième Tp on cherche a Supprimer du bruit autour du signal produit par un électrocardiographefaire et faire la représentation temporelle et fréquentielle en utilisant la transformée de fourrier discrète sous le logiciel Matlab.
 
